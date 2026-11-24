@@ -1,0 +1,31 @@
+FirstName,LastName,Department,Title,Manager
+Marcus,Bell,IT,IT Manager,
+Priya,Nair,IT,Systems Administrator,mbell
+Tom,Reyes,IT,Help Desk Technician,mbell
+Dana,Whitfield,Sales,Sales Director,
+Luis,Ortega,Sales,Account Executive,dwhitfield
+Hannah,Cole,Sales,Account Executive,dwhitfield
+Jerome,Pratt,Sales,Account Executive,dwhitfield
+Mei,Tanaka,Sales,Sales Coordinator,dwhitfield
+Andre,Fontaine,Sales,Inside Sales Rep,dwhitfield
+Sofia,Marin,Sales,Inside Sales Rep,dwhitfield
+Carol,Jennings,Finance,Controller,
+Devon,Banks,Finance,Staff Accountant,cjennings
+Ruth,Okafor,Finance,Accounts Payable Clerk,cjennings
+Sam,Lindqvist,Finance,Accounts Receivable Clerk,cjennings
+Ivan,Petrov,Finance,Payroll Specialist,cjennings
+Greg,Halloran,Operations,Operations Manager,
+Tasha,Monroe,Operations,Warehouse Supervisor,ghalloran
+Raul,Castillo,Operations,Warehouse Associate,tmonroe
+Kim,Dawson,Operations,Warehouse Associate,tmonroe
+Ben,Archer,Operations,Delivery Driver,tmonroe
+Nia,Roberts,Operations,Delivery Driver,tmonroe
+Omar,Haddad,Operations,Dispatcher,ghalloran
+Leah,Stone,Operations,Purchasing Agent,ghalloran
+Victor,Nguyen,Operations,Inventory Analyst,ghalloran
+Paula,Greer,HR,HR Manager,
+Eli,Vance,HR,HR Generalist,pgreer
+Joan,Mercer,HR,Recruiter,pgreer
+Wendy,Ashby,Executive,Chief Executive Officer,
+Frank,DeLuca,Executive,Chief Operating Officer,washby
+Alice,Brandt,Executive,Executive Assistant,washby
